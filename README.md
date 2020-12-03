@@ -1,52 +1,37 @@
-Release of a game created during the Global Game Jam 2020.  
-Presentation posted on my personal blog : https://juliette1012.github.io/posts/GGJ/
 
-# Presentation GGJ
+Release of a game created with Unity.  
+Presentation posted on my personal blog : https://juliette1012.github.io/posts/2D-Platformer-Game/
 
-A `Game jam` is a tournament in which everyone can participate alone or in team to create a game in a certain amount of time, most of the time from scratch.
-At the end of the jam, each game is posted on the jam website and everyone can try, grade and give some feedbacks about each game.
+# Presentation
 
-The `Global Game Jam` is one of the biggest and most famous game jam around the world. Last year, it hosted teams in more than 850 sites in 113 countries and generated 9000 games in one weekend.
+`Les aventures de Tartine` is a 2D platformer game developped using Unity by Valentin Rapine, Corentin Aubrun and myself during the lockdown of 2020.
 
-# Presentation of the project
+You are Tartine. You start the game in a cave and your goal is to reach the surface, avoiding the dangers you can find underground like monsters, gap or lava.
 
-The theme of 2020 Global Game Jam was  `repair`, so each team had to make a **game** on this theme in `48 hours`.  
+You can recover after your injuries with hearts and gain money with coins. The difficulty increases with levels, but there are many hidden path...
 
-I worked in team with **4** friends of mine and we directly thought about a destroyed robot that needs to find his parts to repair itself and go through different levels.  
-
-Each part of the robot unlock a new hability to pass some obstacles.  
-
-With that, the idea of `Nono the tiny robot` was born.
-
-# Organisation
-
-## Friday evening 
-
-Installation of `Unity`, troubles with Windows/MacOS compatibilities.
-
-## Saturday
-
-Great job done today, the game was fully playable by 2pm but unity still struggling for one of us. We have an intro and a original music.  
-
-## Saturday evening 
-
-A lot of work done on the level design and textures. 
-
-## Sunday 
-
-We fixed a few bugs, added the links between the scenes and improved the intro.
+We had precise tasks during this project. Valentin made the animations, Corentin the game design and playability, and i made, using C#, all the interactions between the player and the environment.
 
 # Download the Game
 
-## Mac Users
+## Windows Users
 
-If you want to dowload the zip which contains the executable for Mac : [Nono-le-petit-robot](https://github.com/Juliette1012/Nono-release/releases/tag/v1.0-mac/dowload).
+If you want to dowload the zip which contains the executable for Windows : [Les Aventures de Tartine](https://github.com/Juliette1012/Tartine-release/releases/tag/v1.0/dowload).
 
 You will arrive on this page : 
-![Mac release](/assets/img/ggj2020/release-mac.png)
+![Windows release](/assets/img/tartine/release.png)
 
-In there, open the folder. Once opened, execute the file : `Nono-le-petit-robot-mac`.
+In there, download the zip file and unzip it. Once opened, open the folder `Les-Aventures-de-Tartine` and execute `Platformer.exe`.
 
-![Mac executable](/assets/img/ggj2020/executable-mac.png)
+## Mac Users
 
-**Enjoy the Game !**
+If you want to dowload the zip which contains the executable for Mac : [Les Aventures de Tartine](https://github.com/Juliette1012/Tartine-release/releases/tag/V1.0-mac/dowload).
+
+You will arrive on this page : 
+![Mac release](/assets/img/tartine/release-mac.png)
+
+In there, open the folder. Once opened, execute the file : `Les-Aventures-de-Tartine-Mac`.
+
+![Mac executable](/assets/img/tartine/executable-mac.png)
+
+**Enjoy the GAME !!**
