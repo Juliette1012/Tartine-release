@@ -1,4 +1,5 @@
-Release of a game created during the Global Game Jam 2020
+Release of a game created during the Global Game Jam 2020. 
+Presentation posted on my personal blog : https://juliette1012.github.io/posts/GGJ/
 
 # Presentation GGJ
 
